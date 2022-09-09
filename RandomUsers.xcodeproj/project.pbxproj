@@ -16,6 +16,7 @@
 		BE30DFAB28CA04A6007B7CE7 /* UserFetchingClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE30DFAA28CA04A6007B7CE7 /* UserFetchingClient.swift */; };
 		BE30DFAD28CA33A1007B7CE7 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE30DFAC28CA33A1007B7CE7 /* UserData.swift */; };
 		BE30DFAF28CA378D007B7CE7 /* UsersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE30DFAE28CA378D007B7CE7 /* UsersView.swift */; };
+		BE30DFB128CB7972007B7CE7 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE30DFB028CB7972007B7CE7 /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		BE30DFAA28CA04A6007B7CE7 /* UserFetchingClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserFetchingClient.swift; sourceTree = "<group>"; };
 		BE30DFAC28CA33A1007B7CE7 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 		BE30DFAE28CA378D007B7CE7 /* UsersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersView.swift; sourceTree = "<group>"; };
+		BE30DFB028CB7972007B7CE7 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			children = (
 				BE30DF8028CA02D3007B7CE7 /* RandomUsersApp.swift */,
 				BE30DFAA28CA04A6007B7CE7 /* UserFetchingClient.swift */,
+				BE30DFB028CB7972007B7CE7 /* User.swift */,
 				BE30DFAC28CA33A1007B7CE7 /* UserData.swift */,
 				BE30DFAE28CA378D007B7CE7 /* UsersView.swift */,
 				BE30DF8428CA02D4007B7CE7 /* Assets.xcassets */,
@@ -266,6 +269,7 @@
 				BE30DF8128CA02D3007B7CE7 /* RandomUsersApp.swift in Sources */,
 				BE30DFAF28CA378D007B7CE7 /* UsersView.swift in Sources */,
 				BE30DFAD28CA33A1007B7CE7 /* UserData.swift in Sources */,
+				BE30DFB128CB7972007B7CE7 /* User.swift in Sources */,
 				BE30DFAB28CA04A6007B7CE7 /* UserFetchingClient.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
