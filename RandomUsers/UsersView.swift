@@ -1,8 +1,8 @@
 //
-//  UserView.swift
+//  UsersView.swift
 //  RandomUsers
 //
-//  Created by Вадим Селиверстов on 08.09.2022.
+//  Created by Ben Stone on 9/9/21.
 //
 
 import SwiftUI
@@ -14,13 +14,13 @@ struct UsersView: View {
         NavigationView {
             List(userData.users) { user in
                 Text(user.fullName)
-            }
+            }            
             .navigationTitle("Random Users")
         }
     }
 }
 
-struct UserView_Previews: PreviewProvider {
+struct UsersView_Previews: PreviewProvider {
     static var previews: some View {
         UsersView()
     }

@@ -2,7 +2,7 @@
 //  RandomUsersApp.swift
 //  RandomUsers
 //
-//  Created by Вадим Селиверстов on 08.09.2022.
+//  Created by Ben Stone on 9/9/21.
 //
 
 import SwiftUI

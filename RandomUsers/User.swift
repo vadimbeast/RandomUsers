@@ -1,8 +1,8 @@
 //
 //  User.swift
-//  RandomUsers
+//  User
 //
-//  Created by Вадим Селиверстов on 09.09.2022.
+//  Created by Ben Stone on 9/9/21.
 //
 
 import Foundation
@@ -31,8 +31,8 @@ struct User: Decodable, Identifiable {
     }
     
     enum CodingKeys: String, CodingKey {
-        case login
         case name
+        case login
     }
     enum LoginInfoCodingKeys: String, CodingKey {
         case uuid
@@ -44,4 +44,3 @@ struct Name: Decodable {
     let first: String
     let last: String
 }
-

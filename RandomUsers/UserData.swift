@@ -1,8 +1,8 @@
 //
 //  UserData.swift
-//  RandomUsers
+//  UserData
 //
-//  Created by Вадим Селиверстов on 08.09.2022.
+//  Created by Ben Stone on 9/9/21.
 //
 
 import Foundation
@@ -27,4 +27,3 @@ class UserData: ObservableObject {
         }
     }
 }
-
