@@ -1,9 +1,4 @@
-//
-//  UserFetchingClient.swift
-//  UserFetchingClient
-//
-//  Created by Ben Stone on 9/9/21.
-//
+
 
 import Foundation
 

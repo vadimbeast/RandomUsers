@@ -1,9 +1,4 @@
-//
-//  RandomUsersApp.swift
-//  RandomUsers
-//
-//  Created by Ben Stone on 9/9/21.
-//
+
 
 import SwiftUI
 
